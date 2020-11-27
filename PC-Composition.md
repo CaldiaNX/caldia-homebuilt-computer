@@ -1,15 +1,15 @@
 # Caldia PC構成
 
-## Desktop PC v5.0 2012/09/27
+## Desktop PC v5.1 2013/03/22
 
 |Type|Maker|Name|
 |----|----|----|
-|OS|Microsoft|Windows7 Pro SP1 64bit|
+|OS|Microsoft|Windows8 Pro 64bit|
 |Mather|GIGABYTE|GA-Z77X-UD3H(Rev.1.0)|
 |CPU|Intel|Core i7 3770K 4.0GHz|
 |CPU Fan|サイズ|SCKBT-1000 KABUTO|
 |Memory|PATRiOT|PSD38G1333KH 4GBx2|
-|Graphics|GIGABYTE|GV-N650OC-1GI|
+|Graphics|MSI|N660GTX TwinFrozrⅢ|
 |Sound|オンキョー|SE-90PCI|
 |Power|Owltech|SS-560KM|
 |Case|COOLER MASTER|RC-550-KKN1-JP|
@@ -21,16 +21,16 @@
 |SATA|Pioneer|DVR-217JBK|
 
 
-## Private Server v3.1 2011/08/13
+## Private Server v4.0 2013/01/01
 
 |Type|Maker|Name|
 |----|----|----|
-|OS|Microsoft|Windows Home Server2011|
-|Mather|Intel|D525MW|
-|CPU|Intel|AtomD525|
-|Memory|CFD|DDR3 SO-DIMM 1066 4GB|
-|Case|UNITCOM|ITX-250/300W|
-|Keyboard|ELECOM|TK-FDP001 BK|
-|Display|MITSUBISHI|RDT1710VBK|
-|SATA|crucial|CTFDDAC064MAG|
-|SATA|Seagate|ST2000DL003|
+|OS|Microsoft|WindowsServer2012|
+|Mather|Gigabyte|GA-Z77P-D3|
+|CPU|Intel|Core i5 3470|
+|CPU Fan|Intel|標準クーラー|
+|Memory|PATRiOT|DDR3 8GBx2|
+|Graphics|Intel|Intel HD 2500|
+|Power|Owltech|AURUM SERIES AU-400|
+|Case|星野金属|ALTIUM-X MUSCLEBACK|
+|Display|MITSUBISHI|Diamondcrysta RDT233WX-Z|
