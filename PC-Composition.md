@@ -1,23 +1,23 @@
 # Caldia PC構成
 
-## Desktop PC v6.0 2016/07/02
+## Desktop PC v6.1 2016/10/02
 
 |Type|Maker|Name|
 |----|----|----|
-|OS|Microsoft|Windows10 Pro 64bit|
+|OS|Microsoft|Windows8.1 Pro 64bit|
 |Mather|GIGABYTE|GA-Z170M-D3H|
 |CPU|Intel|Core i7 6700K|
 |CPU Fan|サイズ|SCKBT-1000 KABUTO|
 |Memory|CFD|DDR4 PC4-21300 8GBx2|
 |Graphics|MSI|GTX960 2GD5TOC|
-|Sound|-|-|
+|Sound|RATOC|REX-A1648HA1|
 |Power|Owltech|SS-560KM|
 |Case|COOLER MASTER|SIL-352M-KKN1-JP|
 |Mouse|ELECOM|M-XG3DLBK|
 |Keyboard|EZKey|IKE-101(黒)|
 |Display|acer|G225HQL|
 |Speaker|オンキョー|GX-R3X(B)|
-|SATA|crucial|CT480BX200SSD1|
+|M.2.|Intel|SSDPEKKW512G7X1|
 |SATA|九十九電機|EX-SARC1B|
 |SATA|TOSHIBA|MD04ACA600|
 
