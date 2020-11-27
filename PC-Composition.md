@@ -1,22 +1,21 @@
 # Caldia PC構成
 
-## Desktop PC v4.4 2011/08/13
+## Desktop PC v5.0 2012/09/27
 
 |Type|Maker|Name|
 |----|----|----|
-|OS|Microsoft|Windows7 Ultimate 64bit|
-|Mather|GIGABYTE|GA-P55A-UD3R Ver(1.0)|
-|CPU|Intel|Core i7 860 2.8GHz|
+|OS|Microsoft|Windows7 Pro SP1 64bit|
+|Mather|GIGABYTE|GA-Z77X-UD3H(Rev.1.0)|
+|CPU|Intel|Core i7 3770K 4.0GHz|
 |CPU Fan|サイズ|SCKBT-1000 KABUTO|
 |Memory|PATRiOT|PSD38G1333KH 4GBx2|
-|Graphics|玄人志向|GF9800GT-E512HD/GE|
-|GPU Fan|サイズ|K80|
+|Graphics|GIGABYTE|GV-N650OC-1GI|
 |Sound|オンキョー|SE-90PCI|
 |Power|Owltech|SS-560KM|
-|Case|星野金属|ALTIUM-X MUSCLEBACK|
+|Case|COOLER MASTER|RC-550-KKN1-JP|
 |Mouse|logicool|M305|
 |Keyboard|EZKey|IKE-101(黒)|
-|Display|MITSUBISHI|Diamondcrysta RDT233WX-Z|
+|Display|acer|G225HQL|
 |Speaker|オンキョー|GX-R3X(B)|
 |SATA|crucial|CT128M4SSD2|
 |SATA|Pioneer|DVR-217JBK|
