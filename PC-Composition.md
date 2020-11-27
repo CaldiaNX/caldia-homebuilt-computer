@@ -1,27 +1,26 @@
 # Caldia PC構成
 
-## Desktop PC v3.1a 2009/07/02
+## Desktop PC v4.0 2010/04/01
 
 |Type|Maker|Name|
 |----|----|----|
-|OS|Microsoft|WindowsXP Home SP3|
-|Mather|GIGABYTE|GA-EP35-DS3R|
-|CPU|Intel|Core 2 Duo E8200 3.2GHz|
-|CPU Fan|Thermaltake|桜扇 ISGC-100|
-|Memory|ノーブランド|DDR2-667 PC5300 1GBx2|
+|OS|Microsoft|Windows7 Ultimate 64bit|
+|Mather|GIGABYTE|GA-P55A-UD3R Ver(1.0)|
+|CPU|Intel|Core i7 860 2.8GHz|
+|CPU Fan|Intel|標準クーラー|
+|Memory|CFD|DDR3-1333 2GBx2|
 |Graphics|玄人志向|GF9800GT-E512HD/GE|
 |Sound|オンキョー|SE-90PCI|
 |Power|OEC|OEC-SP-400W14F|
 |Case|星野金属|ALTIUM-X MUSCLEBACK|
 |Mouse|不明|マウス(青)|
-|Keyboard|BUFFALO|BKBC-J109SBK|
+|Keyboard|EZKey|IKE-101(黒)|
 |Display|ダイナコネクティブ|DY-L2400W|
 |Speaker|オンキョー|GX-R3X(B)|
+|SATA|CFD|CSSD-SM32WJ2|
 |SATA|Pioneer|DVR-217JBK|
-|SATA|WestanDigital|WD5000AACS|
-|SATA|ラトックシステム|SA-RCIDE-BK|
+|SATA|WestanDigital|WD10EADS|
 |PCIe|玄人志向|SATA2EI-PCIe|
-|Memory|ノーブランド|DDR2-800 (1GBx2) 2GB|
 
 
 ## Private Server v2.0 2009/06/29
