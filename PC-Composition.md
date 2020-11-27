@@ -1,12 +1,12 @@
 # Caldia PC構成
 
-## Desktop PC v6.4 2020/03/20
+## Desktop PC v7.0 2020/06/29
 
 |Type|Maker|Name|
 |----|----|----|
 |OS|Microsoft|Windows10 Pro 64bit|
-|Mather|GIGABYTE|GA-Z170M-D3H|
-|CPU|Intel|Core i7 6700K|
+|Mather|ASUS|PRIME H470M-PLUS|
+|CPU|Intel|Core i5 10400|
 |CPU Fan|サイズ|SCKBT-1000 KABUTO|
 |Memory|CFD|DDR4 PC4-21300 8GBx2|
 |Graphics|MSI|GeForceGTX1650Super VENTUS XS|
@@ -22,18 +22,18 @@
 |SATA|TOSHIBA|MD05ACA800|
 
 
-## Private Server v5.2 2019/05/01
+## Private Server v6.0 2019/05/01
 
 |Type|Maker|Name|
 |----|----|----|
-|OS|Microsoft|Windows10 Pro 64bit|
-|Mather|Gigabyte|GA-Z77X-UD3H|
-|CPU|Intel|Core i7 3770K|
-|CPU Fan|Intel|標準クーラー|
-|Memory|PATRiOT|DDR3-1600 8GBx4|
-|Graphics|ASUS|GT1030-SL-2G-BRK|
-|Power|Owltech|AURUM SERIES AU-400|
-|Case|COOLER MASTER|RC-550-KKN1-JP|
-|Display|MITSUBISHI|Diamondcrysta RDT233WX-Z|
-|mSATA|crucial|CT250MX200SSD3|
-|SATA|Seagate|ST2000DL003|
+|OS|VMWare|Windows10 Pro 64bit|
+|Mather|ASRock|DeskMini-310|
+|CPU|Intel|Core i7 8700|
+|CPU Fan|Noctua|NH-L9i|
+|Memory|CFD|W4N2666PS-16G-DDR4x2|
+|Graphics|Intel|Intel UHD 630|
+|Power|ASRock|DeskMini-310|
+|Case|ASRock|DeskMini-310|
+|Display|acer|G225HQL|
+|Keyboard|BUFFALO|BSKBU10SV|
+|M.2.|Crucial|P1-CT1000P1SSD8JP|
