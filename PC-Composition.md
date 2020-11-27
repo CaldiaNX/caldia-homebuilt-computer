@@ -1,21 +1,21 @@
 # Caldia PC構成
 
-## Desktop PC v4.0 2010/04/01
+## Desktop PC v4.1 2010/04/01
 
 |Type|Maker|Name|
 |----|----|----|
 |OS|Microsoft|Windows7 Ultimate 64bit|
 |Mather|GIGABYTE|GA-P55A-UD3R Ver(1.0)|
 |CPU|Intel|Core i7 860 2.8GHz|
-|CPU Fan|Intel|標準クーラー|
+|CPU Fan|サイズ|SCKBT-1000 KABUTO|
 |Memory|CFD|DDR3-1333 2GBx2|
 |Graphics|玄人志向|GF9800GT-E512HD/GE|
 |Sound|オンキョー|SE-90PCI|
-|Power|OEC|OEC-SP-400W14F|
+|Power|Owltech|EVEREST 85PLUS520|
 |Case|星野金属|ALTIUM-X MUSCLEBACK|
-|Mouse|不明|マウス(青)|
+|Mouse|logicool|M305|
 |Keyboard|EZKey|IKE-101(黒)|
-|Display|ダイナコネクティブ|DY-L2400W|
+|Display|MITSUBISHI|Diamondcrysta RDT241WEX|
 |Speaker|オンキョー|GX-R3X(B)|
 |SATA|CFD|CSSD-SM32WJ2|
 |SATA|Pioneer|DVR-217JBK|
