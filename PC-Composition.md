@@ -1,13 +1,13 @@
 # Caldia PC構成
 
-## Desktop PC v1.2 2006/04/01
+## Desktop PC v2.0 2006/05/06
 
 |Type|Maker|Name|
 |----|----|----|
 |OS|Microsoft|WindowsXP Home SP2|
-|Mather|ASUSTeK|P5AD2-E Premium|
-|CPU|Intel|Pentium4 550 3.4GHz|
-|CPU Fan|Thermaltake|BigTyhoon/CL|
+|Mather|MSI|MSI-945GT SpeedSter Plus|
+|CPU|Intel|Core Duo T2300 1.66GHz|
+|CPU Fan|MSI|マザー付属クーラー|
 |Memory|ノーブランド|DDR2-533 PC4200 512MBx2|
 |Graphics|ASUSTeK|EN6600Silencer/TD/256MB|
 |Sound|オンキョー|SE-90PCI|
@@ -20,4 +20,3 @@
 |FDD|Owltech|FA404MX(B)/BOX|
 |IDE|Pioniar|DVD-120VZ|
 |SATA|Maxtor|250GB|
-|PCI|I-O Data|GV-D1VR|
