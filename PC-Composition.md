@@ -1,6 +1,6 @@
 # Caldia PC構成
 
-## Desktop PC v4.2 2011/01/01
+## Desktop PC v4.3 2011/03/30
 
 |Type|Maker|Name|
 |----|----|----|
@@ -19,17 +19,17 @@
 |Speaker|オンキョー|GX-R3X(B)|
 |SATA|crucial|CTFDDAC064MAG|
 |SATA|Pioneer|DVR-217JBK|
-|SATA|WestanDigital|WD10EADS|
+|SATA|Seagate|ST32000542AS|
 
 
-## Private Server v2.0 2009/06/29
+## Private Server v3.0 2011/03/07
 
 |Type|Maker|Name|
 |----|----|----|
-|OS|Fedora Project|Fedora 12|
-|Mather|BIOSTER|945GC-330|
-|CPU|Intel|Atom330(オンボード)|
-|Memory|ノーブランド|DDR2PC5300-2GB DDR667|
+|OS|Microsoft|Windows7 Ultimate 64bit|
+|Mather|Intel|D525MW|
+|CPU|Intel|AtomD525|
+|Memory|CFD|DDR3 SO-DIMM 1066 4GB|
 |Case|UNITCOM|ITX-250/300W|
 |Keyboard|ELECOM|TK-FDP001 BK|
 |Display|MITSUBISHI|RDT1710VBK|
