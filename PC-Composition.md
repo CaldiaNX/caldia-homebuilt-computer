@@ -1,6 +1,6 @@
 # Caldia PC構成
 
-## Desktop PC v6.1 2016/10/02
+## Desktop PC v6.2 2017/08/05
 
 |Type|Maker|Name|
 |----|----|----|
@@ -9,7 +9,7 @@
 |CPU|Intel|Core i7 6700K|
 |CPU Fan|サイズ|SCKBT-1000 KABUTO|
 |Memory|CFD|DDR4 PC4-21300 8GBx2|
-|Graphics|MSI|GTX960 2GD5TOC|
+|Graphics|玄人志向|GF-GTX1060-3GB/OC/DF|
 |Sound|RATOC|REX-A1648HA1|
 |Power|Owltech|SS-560KM|
 |Case|COOLER MASTER|SIL-352M-KKN1-JP|
@@ -19,26 +19,26 @@
 |Speaker|オンキョー|GX-R3X(B)|
 |M.2.|Intel|SSDPEKKW512G7X1|
 |SATA|九十九電機|EX-SARC1B|
-|SATA|TOSHIBA|MD04ACA600|
+|SATA|TOSHIBA|MD05ACA800|
 
 
-## Private Server v4.2 2015/10/01
+## Private Server v5.0 2017/01/01
 
 |Type|Maker|Name|
 |----|----|----|
 |OS|Microsoft|Windows8.1 Pro 64bit|
-|Mather|Gigabyte|GA-Z77P-D3|
-|CPU|Intel|Core i5 3470|
+|Mather|Gigabyte|GA-Z77X-UD3H|
+|CPU|Intel|Core i7 3770K|
 |CPU Fan|Intel|標準クーラー|
 |Memory|PATRiOT|DDR3-1600 8GBx4|
 |Graphics|GIGABYTE|GV-N730SL-2GL|
 |Power|Owltech|AURUM SERIES AU-400|
-|Case|星野金属|ALTIUM-X MUSCLEBACK|
+|Case|COOLER MASTER|RC-550-KKN1-JP|
 |Display|MITSUBISHI|Diamondcrysta RDT233WX-Z|
 |Mouse|logicool|M305|
-|Keyboard|BUFFALO|BSKBU10SV|
+|Keyboard|ELECOM|TK-FCM062|
 |mSATA|crucial|CT250MX200SSD3|
-|SATA|九十九電機|EX-SARC1B|
 |SATA|Seagate|ST2000DL003|
-|SATA|WestanDigital|WD20EARS|
+|SATA|crucial|CT480BX200SSD1|
+|SATA|TOSHIBA|MD04ACA600|
 |SATA|WestanDigital|WD40EZRX|
