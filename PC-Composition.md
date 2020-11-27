@@ -1,6 +1,6 @@
 # Caldia PC構成
 
-## Desktop PC v1.1 2005/11/28
+## Desktop PC v1.2 2006/04/01
 
 |Type|Maker|Name|
 |----|----|----|
@@ -10,8 +10,8 @@
 |CPU Fan|Thermaltake|BigTyhoon/CL|
 |Memory|ノーブランド|DDR2-533 PC4200 512MBx2|
 |Graphics|ASUSTeK|EN6600Silencer/TD/256MB|
-|Sound|クリエイティブメディア|CPE0404|
-|Power|不明|400W|
+|Sound|オンキョー|SE-90PCI|
+|Power|OEC|OEC-SP-400W14F|
 |Case|星野金属|ALTIUM-X MUSCLEBACK|
 |Mouse|不明|マウス(青)|
 |Keyboard|BUFFALO|BKBC-J109SBK|
