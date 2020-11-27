@@ -1,6 +1,6 @@
 # Caldia PC構成
 
-## Desktop PC v2.3 2007/07/24
+## Desktop PC v2.4 2007/09/03
 
 |Type|Maker|Name|
 |----|----|----|
@@ -8,8 +8,8 @@
 |Mather|MSI|MSI-945GT SpeedSter Plus|
 |CPU|Intel|Core Duo T2300 1.66GHz|
 |CPU Fan|不明|CPUクーラー|
-|Memory|ノーブランド|DDR2-533 PC4200 512MBx2|
-|Graphics|玄人志向|GF7600GS-E256HW|
+|Memory|ノーブランド|DDR2-667 PC5300 1GBx2|
+|Graphics|玄人志向|GF8600GT-E256HW/HS|
 |Sound|オンキョー|SE-90PCI|
 |Power|OEC|OEC-SP-400W14F|
 |Case|星野金属|ALTIUM-X MUSCLEBACK|
