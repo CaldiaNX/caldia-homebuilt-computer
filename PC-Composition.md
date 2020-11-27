@@ -1,6 +1,6 @@
 # Caldia PC構成
 
-## Desktop PC v5.3 2015/10/01
+## Desktop PC v5.4 2015/11/03
 
 |Type|Maker|Name|
 |----|----|----|
@@ -9,7 +9,7 @@
 |CPU|Intel|Core i7 3770K 4.0GHz|
 |CPU Fan|サイズ|SCKBT-1000 KABUTO|
 |Memory|CFD|DDR3-1600 8GBx2|
-|Graphics|MSI|N660GTX TwinFrozrⅢ|
+|Graphics|MSI|GTX960 2GD5TOC|
 |Sound|オンキョー|SE-90PCI|
 |Power|Owltech|SS-560KM|
 |Case|COOLER MASTER|RC-550-KKN1-JP|
