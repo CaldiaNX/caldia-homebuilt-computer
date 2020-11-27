@@ -1,6 +1,6 @@
 # Caldia PC構成
 
-## Desktop PC v5.2 2013/06/15
+## Desktop PC v5.3 2015/10/01
 
 |Type|Maker|Name|
 |----|----|----|
@@ -18,27 +18,27 @@
 |Display|acer|G225HQL|
 |Speaker|オンキョー|GX-R3X(B)|
 |SATA|crucial|CT128M4SSD2(RAID-0)|
-|SATA|Pioneer|DVR-217JBK|
+|mSATA|crucial|CT128M4SSD3 128GB|
 |SATA|crucial|CT128M4SSD2(RAID-0)|
 
 
-## Private Server v4.1 2013/06/03
+## Private Server v4.2 2015/10/01
 
 |Type|Maker|Name|
 |----|----|----|
-|OS|Microsoft|WindowsServer2012R2|
+|OS|Microsoft|Windows8.1 Pro 64bit|
 |Mather|Gigabyte|GA-Z77P-D3|
 |CPU|Intel|Core i5 3470|
 |CPU Fan|Intel|標準クーラー|
 |Memory|PATRiOT|DDR3-1600 8GBx4|
-|Graphics|ASUS|210-SL-TC1GD3-L|
+|Graphics|GIGABYTE|GV-N730SL-2GL|
 |Power|Owltech|AURUM SERIES AU-400|
 |Case|星野金属|ALTIUM-X MUSCLEBACK|
 |Display|MITSUBISHI|Diamondcrysta RDT233WX-Z|
 |Mouse|logicool|M305|
 |Keyboard|BUFFALO|BSKBU10SV|
-|mSATA|crucial|CT128M4SSD3|
-|SATA|Intel|SSD-320 128GB|
+|mSATA|crucial|CT250MX200SSD3|
+|SATA|九十九電機|EX-SARC1B|
 |SATA|Seagate|ST2000DL003|
 |SATA|WestanDigital|WD20EARS|
-|SATA|WestanDigital|WD10EADS|
+|SATA|WestanDigital|WD40EZRX|
