@@ -34,3 +34,10 @@
 |Power|Owltech|AURUM SERIES AU-400|
 |Case|星野金属|ALTIUM-X MUSCLEBACK|
 |Display|MITSUBISHI|Diamondcrysta RDT233WX-Z|
+|Mouse|logicool|M305|
+|Keyboard|BUFFALO|BSKBU10SV|
+|mSATA|crucial|CT128M4SSD3 128GB|
+|SATA|Intel|SSD-320 128GB|
+|SATA|Seagate|ST2000DL003|
+|SATA|WestanDigital|WD20EARS|
+|SATA|WestanDigital|WD10EADS|
