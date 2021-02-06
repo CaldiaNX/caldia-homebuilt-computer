@@ -8,7 +8,7 @@
 - [リリースノート](https://github.com/CaldiaNX/caldia-homebuilt-computer/releases)
   - 上記の*tags→releases*です。
 - 変更差分確認
-  - [過去履歴](https://github.com/CaldiaNX/caldia-homebuilt-computer/tags)の→ランダムな文字列リンク(コミット履歴)を確認下さい。*Split*が見やすいです。
+  - [過去履歴](https://github.com/CaldiaNX/caldia-homebuilt-computer/tags)のランダムな文字列リンクを確認下さい。*Split*が見やすいです。
   - [リリースノート](https://github.com/CaldiaNX/caldia-homebuilt-computer/releases)ページの*Compare*から任意のバージョンと比較できます。
 
 ## 余談
