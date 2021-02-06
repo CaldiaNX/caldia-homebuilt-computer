@@ -1,10 +1,14 @@
 # Caldiaの自作パソコン構成履歴
 
 ## ガイド
-- [最新構成](https://github.com/CaldiaNX/caldia-homebuilt-computer/blob/main/PC-Composition.md) 上記の*PC-Composition.md*です。
-- [過去履歴](https://github.com/CaldiaNX/caldia-homebuilt-computer/tags) 上記の*tags*です。
-- [日記](https://github.com/CaldiaNX/caldia-homebuilt-computer/releases) 上記の*tags→releases*です。
-- 変更差分確認 [過去履歴](https://github.com/CaldiaNX/caldia-homebuilt-computer/tags)の→ランダムな文字列リンク(コミット履歴)を確認下さい。*Split*が見やすいです。
+- [最新構成](https://github.com/CaldiaNX/caldia-homebuilt-computer/blob/main/PC-Composition.md)
+  - 上記の*PC-Composition.md*です。
+- [過去履歴](https://github.com/CaldiaNX/caldia-homebuilt-computer/tags)
+  - 上記の*tags*です。
+- [日記](https://github.com/CaldiaNX/caldia-homebuilt-computer/releases)
+  - 上記の*tags→releases*です。
+- 変更差分確認
+  - [過去履歴](https://github.com/CaldiaNX/caldia-homebuilt-computer/tags)の→ランダムな文字列リンク(コミット履歴)を確認下さい。*Split*が見やすいです。
   - [日記](https://github.com/CaldiaNX/caldia-homebuilt-computer/releases)ページの*Compare*から任意のバージョンと比較もできます。
 
 ## 余談
