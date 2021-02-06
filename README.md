@@ -4,7 +4,7 @@
 - [最新構成](https://github.com/CaldiaNX/caldia-homebuilt-computer/blob/main/PC-Composition.md)
   - 上記の*PC-Composition.md*です。
 - [過去履歴](https://github.com/CaldiaNX/caldia-homebuilt-computer/tags)
-  - 上記の*tags*です。該当バージョン（v.x.x）リンクを確認下さい。
+  - 上記の*tags*です。該当バージョン（vN.N）リンクを確認下さい。
 - [リリースノート](https://github.com/CaldiaNX/caldia-homebuilt-computer/releases)
   - 上記の*tags→releases*です。
 - 変更差分確認
