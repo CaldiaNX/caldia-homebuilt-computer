@@ -1,6 +1,6 @@
 # Caldia PC構成
 
-## Desktop PC v7.1 2020/07/17
+## Desktop PC v7.2 2023/09/01
 
 |Type|Maker|Name|
 |----|----|----|
@@ -9,7 +9,7 @@
 |CPU|Intel|Core i5 10400|
 |CPU Fan|サイズ|SCKBT-1000 KABUTO|
 |Memory|CFD|DDR4 PC4-21300 8GBx2|
-|Graphics|MSI|GeForceGTX1650Super VENTUS XS|
+|Graphics|MSI|GeForce RTX 4060 VENTUS 2X BLACK 8G OC|
 |Sound|RATOC|REX-A1648HA1|
 |Power|Owltech|PT-550M|
 |Case|COOLER MASTER|SIL-352M-KKN1-JP|
@@ -18,4 +18,5 @@
 |Display|acer|KG241YUbmiipx|
 |Speaker|オンキョー|GX-R3X(B)|
 |M.2.|Crucial|P1-CT1000P1SSD8JP|
+|M.2.|Intel|SSDPEKKW512G7X1|
 |SATA|九十九電機|EX-SARC1B|
