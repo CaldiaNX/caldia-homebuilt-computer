@@ -1,6 +1,6 @@
 # Caldia PC構成
 
-## Desktop PC v7.2 2023/09/01
+## Desktop PC v7.3 2024/02/29
 
 |Type|Maker|Name|
 |----|----|----|
@@ -8,7 +8,7 @@
 |Mather|ASUS|PRIME H470M-PLUS|
 |CPU|Intel|Core i5 10400|
 |CPU Fan|サイズ|SCKBT-1000 KABUTO|
-|Memory|CFD|DDR4 PC4-21300 8GBx2|
+|Memory|CFD|DDR4 PC4-21300 8GBx4|
 |Graphics|MSI|GeForce RTX 4060 VENTUS 2X BLACK 8G OC|
 |Sound|RATOC|REX-A1648HA1|
 |Power|Owltech|PT-550M|
